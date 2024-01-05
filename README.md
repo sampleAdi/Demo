@@ -1,2 +1,2 @@
 # Demo
-This is a new file for exploring Github.
+This is a new file for exploring Github
