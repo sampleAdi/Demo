@@ -1,9 +1,9 @@
 # Demo
-This is a new file for exploring Github
+This is file for exploring Github
 
 
 # Teacher
-Shradhha Khapra
+Shradhha Khapra.
 
 # Student
-Delte Student
+Delte Student h.
